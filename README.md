@@ -45,7 +45,7 @@
       <img src="assets/comsol-logo.png" alt="COMSOL" width="60" height="40"/>
       <img src="https://avatars.githubusercontent.com/u/342353?s=200&v=4" alt="OpenFOAM" width="65" height="50"/>
       <img src="assets/aspen-logo.png" alt="Aspen HYSYS" width="80" height="50"/>
-      <img src="assets/ansys-logo.png" alt="ANSYS" width="60" height="50"/>
+      <img src="assets/ansys-logo.png" alt="ANSYS" width="60" height="35"/>
     </td>
   </tr>
 
