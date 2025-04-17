@@ -67,7 +67,7 @@
 </div>
 
 ###
-<br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br>
 
 <h2 align="left">Connect with Me</h2>
 <p align="left">
