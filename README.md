@@ -1,14 +1,17 @@
-<h1 align="left">Hey there 👋</h1>
-<h4 align="center">"I'm Meysam Rahmanian — a Scientific Software Engineer with a passion for turning complex models into powerful code."</h4>
+<h1 align="left">Hello and Welcome to My Profile</h1>
+<h4 align="center">I'm Meysam Rahmanian — a Scientific Software Engineer passionate about transforming complex models into high-performance, scalable code.</h4>
 
 ###
 
 <h2 align="left">About Me</h2>
 
-<p align="left">✨ I specialize in scientific software engineering, computational modeling, and algorithm optimization.<br> 
-📚 Background in Electrochemical and Petroleum/Chemical Engineering with solid experience in C++, Python, and parallel computing.<br>
-🎯 Goals: To continue creating scalable simulation tools that solve real-world scientific problems.<br>
-🎲 Fun fact: I love working with cutting-edge technologies and applying them to solve complex challenges.</p>
+<p align="left">
+✨ I build high-performance scientific software, specializing in computational modeling, numerical methods, and algorithm optimization.<br>
+🔧 My core skills include C++, C#, Python, MATLAB, Java, and parallel computing.<br>
+📚 I hold a Ph.D. in Electrochemical Engineering, with experience in Petroleum and Chemical Engineering — bringing a strong scientific foundation to my software development work.<br>
+🎯 I’m driven to develop scalable, accurate, and reliable simulation tools that solve real-world engineering and scientific challenges.<br>
+💡 Passionate about leveraging emerging technologies to improve computational performance and user experience in technical applications.
+</p>
 
 ###
 
@@ -60,14 +63,14 @@
 
 <br><br><br><br><br><br><br><br><br><br><br><br>
 
-<h2 align="left">🔥   My Stats :</h2>
+<h2 align="left"> My Stats :</h2>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
-<br><br><br>
+<br><br>
 
 <h2 align="left">Connect with Me</h2>
 <p align="left">
