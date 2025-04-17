@@ -15,12 +15,13 @@
 <tr>
   <td><strong>Scientific & Engineering Tools:</strong></td>
   <td>
-    <img src="https://raw.githubusercontent.com/scipy/scipy/main/doc/source/_static/logo.svg" alt="SciPy" width="50" height="50"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Comsol_logo.png/320px-Comsol_logo.png" alt="COMSOL" width="90" height="30"/>
-    <img src="https://www.aspentech.com/-/media/AspenTech/Logos/AspenTech-Logo-Color.svg" alt="Aspen HYSYS" width="100" height="30"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/ANSYS_logo.svg/2560px-ANSYS_logo.svg.png" alt="ANSYS" width="90" height="30"/>
+    <img src="https://raw.githubusercontent.com/scipy/scipy/main/doc/source/_static/logo.svg" alt="SciPy" width="45" />
+    <img src="https://img.icons8.com/external-flat-juicy-fish/60/null/external-simulation-automation-technology-flat-flat-juicy-fish.png" alt="COMSOL (generic)" width="45" title="COMSOL Multiphysics"/>
+    <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/null/external-chemistry-laboratory-flaticons-flat-flat-icons.png" alt="Aspen HYSYS (generic)" width="45" title="Aspen HYSYS"/>
+    <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/null/external-fem-engineering-flaticons-flat-flat-icons.png" alt="ANSYS (generic)" width="45" title="ANSYS FEM"/>
   </td>
 </tr>
+
 
 
 <h2 align="left"> Technologies Stack</h2>
@@ -51,10 +52,10 @@
   <tr>
     <td><strong>Simulation Tools</strong></td>
     <td>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Comsol_logo.png/320px-Comsol_logo.png" alt="COMSOL" width="90" height="30"/>
+      <img src="https://img.icons8.com/external-flat-juicy-fish/60/null/external-simulation-automation-technology-flat-flat-juicy-fish.png" alt="COMSOL (generic)" width="45" title="COMSOL Multiphysics"/>
       <img src="https://avatars.githubusercontent.com/u/342353?s=200&v=4" alt="OpenFOAM" width="40" height="40"/>
-      <img src="https://www.aspentech.com/-/media/AspenTech/Logos/AspenTech-Logo-Color.svg" alt="Aspen HYSYS" width="100" height="30"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/ANSYS_logo.svg/2560px-ANSYS_logo.svg.png" alt="ANSYS" width="90" height="30"/>
+      <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/null/external-chemistry-laboratory-flaticons-flat-flat-icons.png" alt="Aspen HYSYS (generic)" width="45" title="Aspen HYSYS"/>
+      <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/null/external-fem-engineering-flaticons-flat-flat-icons.png" alt="ANSYS (generic)" width="45" title="ANSYS FEM"/>
     </td>
   </tr>
 
