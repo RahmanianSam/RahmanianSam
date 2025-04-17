@@ -43,7 +43,7 @@
     <td>
       <img src="assets/comsol.png" alt="COMSOL" width="45" title="COMSOL Multiphysics" />
       <img src="https://avatars.githubusercontent.com/u/342353?s=200&v=4" alt="OpenFOAM" width="40" height="40"/>
-      <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/null/external-chemistry-laboratory-flaticons-flat-flat-icons.png" alt="Aspen HYSYS (generic)" width="45" title="Aspen HYSYS" />
+      <img src="assets/ansys.png" alt="ANSYS" width="45" title="ANSYS" />
       <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/null/external-fem-engineering-flaticons-flat-flat-icons.png" alt="ANSYS (generic)" width="45" title="ANSYS FEM" />
     </td>
   </tr>
