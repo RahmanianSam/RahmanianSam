@@ -13,10 +13,6 @@
 
 ###
 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Scipy_logo.svg" alt="SciPy" width="50" height="50"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Comsol_logo.png" alt="COMSOL" width="90" height="30"/>
-    <img src="https://www.aspentech.com/-/media/aspentech/images/logos/logo-default-og-image.jpg" alt="Aspen HYSYS" width="60" height="30"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/ANSYS_logo.svg" alt="ANSYS" width="80" height="25"/>
 
 <h2 align="left">🧰 Technologies Stack</h2>
 
@@ -37,7 +33,7 @@
     <td><strong>Scientific Libraries</strong></td>
     <td>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scipy/scipy-original.svg" alt="SciPy" width="40" height="40"/>
+       <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Scipy_logo.svg" alt="SciPy" width="50" height="50"/>
       <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
       <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
     </td>
@@ -46,10 +42,11 @@
   <tr>
     <td><strong>Simulation Tools</strong></td>
     <td>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Comsol_logo.png" alt="COMSOL" width="40" height="40"/>
+      
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Comsol_logo.png" alt="COMSOL" width="90" height="30"/>
       <img src="https://avatars.githubusercontent.com/u/342353?s=200&v=4" alt="OpenFOAM" width="40" height="40"/>
-      <img src="https://seeklogo.com/images/A/aspen-technology-logo-AE2335A7C9-seeklogo.com.png" alt="Aspen HYSYS" width="40" height="40"/>
-      <img src="https://www.ansys.com/-/media/ansys/corporate/logos/ansys-logo.svg" alt="ANSYS" width="60" height="40"/>
+      <img src="https://www.aspentech.com/-/media/aspentech/images/logos/logo-default-og-image.jpg" alt="Aspen HYSYS" width="60" height="30"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/ANSYS_logo.svg" alt="ANSYS" width="80" height="25"/>
     </td>
   </tr>
 
