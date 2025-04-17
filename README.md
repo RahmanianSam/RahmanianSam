@@ -26,7 +26,7 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
       <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="45" height="45"/>
       <img src="https://cdn-icons-png.freepik.com/256/4248
-
+</table>
 <br><br>
 
 
