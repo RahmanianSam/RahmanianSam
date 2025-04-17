@@ -3,20 +3,18 @@
 
 ###
 
-<h2 align="left"> About Me</h2>
+<h2 align="left">About Me</h2>
 
-<p align="left">
-  💻 I specialize in scientific software engineering, computational modeling, and algorithm optimization.<br>
-  ✨ I thrive on building high-performance software that bridges science and engineering with elegant code.<br>
-  📚 Background in Electrochemical and Petroleum/Chemical Engineering with solid experience in C++, Python, and parallel computing.<br>
-  🎯 Goals: To continue creating scalable simulation tools that solve real-world scientific problems.
-</p>
+<p align="left">✨ I specialize in scientific software engineering, computational modeling, and algorithm optimization.<br> 
+📚 Background in Electrochemical and Petroleum/Chemical Engineering with solid experience in C++, Python, and parallel computing.<br>
+🎯 Goals: To continue creating scalable simulation tools that solve real-world scientific problems.<br>
+🎲 Fun fact: I love working with cutting-edge technologies and applying them to solve complex challenges.</p>
 
 ###
 
-<h2 align="left"> Technologies Stack</h2>
+<h2 align="left">Technologies Stack:</h2>
 
-<table align="left" style="width: 100%; margin-bottom: 30px;">
+<table align="left">
   <tr>
     <td><strong>Programming Languages:</strong></td>
     <td>
@@ -69,12 +67,11 @@
 
 ###
 
-<h2 align="left"> Connect with Me</h2>
-<div style="text-align: left; display: flex; gap: 20px;">
-  <a href="https://www.linkedin.com/in/meysam-rahmanian/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40"/>
-  </a>
-  <a href="mailto:rahmanian.s.meysam@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/452/gmail.png" alt="Gmail" height="40" width="40"/>
-  </a>
-</div>
+<h2 align="left">Connect with Me</h2>
+<p align="left">
+  <a href="https://www.linkedin.com/in/meysam-rahmanian/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:rahmanian.s.meysam@gmail.com" target="_blank"><img src="https://img.icons8.com/color/452/gmail.png" alt="Gmail" height="30" width="30"/></a>
+</p>
+
+###
