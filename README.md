@@ -9,7 +9,7 @@
   
   🔧 <strong>Technical Expertise:</strong> My technical expertise includes C++, C#, Python, MATLAB, Java, and parallel computing, along with a strong background in scientific computing and simulation tools.<br>
   
-  📚 <strong>Academic Background:</strong> I hold a Ph.D. in Electrochemical Engineering and have experience in Petroleum and Chemical Engineering, providing a robust scientific foundation for my software development work.<br>
+ 📚 <strong>Academic Background:</strong> I hold a Ph.D. in Electrochemical Engineering and a M.Sc. in Petroleum & chemical Engineering. Additionally, I have practical experience in Petroleum and Chemical Engineering, which provides a strong scientific foundation for the software development and computational modeling work.
   
   🎯 <strong>Goal:</strong> My goal is to build scalable, accurate, and reliable simulation tools that tackle real-world challenges in engineering and science.<br>
   
