@@ -60,7 +60,7 @@
   </tr>
 </table>
 
-<br><br><br> <!-- Added more space between the table and the GitHub Stats section -->
+<br><br><br>                                                                                       
 
 <h2 align="left">My GitHub Stats</h2>
 <div align="center" style="margin-bottom: 30px;">
