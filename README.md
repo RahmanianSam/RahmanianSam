@@ -6,17 +6,17 @@
 <h2 align="left"> About Me</h2>
 
 <p align="left">
-💻 I specialize in scientific software engineering, computational modeling, and algorithm optimization.<br>
-✨ I thrive on building high-performance software that bridges science and engineering with elegant code.<br>
-📚 Background in Electrochemical and Petroleum/Chemical Engineering with solid experience in C++, Python, and parallel computing.<br>
-🎯 Goals: To continue creating scalable simulation tools that solve real-world scientific problems.
+  💻 I specialize in scientific software engineering, computational modeling, and algorithm optimization.<br>
+  ✨ I thrive on building high-performance software that bridges science and engineering with elegant code.<br>
+  📚 Background in Electrochemical and Petroleum/Chemical Engineering with solid experience in C++, Python, and parallel computing.<br>
+  🎯 Goals: To continue creating scalable simulation tools that solve real-world scientific problems.
 </p>
 
 ###
 
 <h2 align="left"> Technologies Stack</h2>
 
-<table align="left">
+<table align="left" style="width: 100%; margin-bottom: 30px;">
   <tr>
     <td><strong>Programming Languages:</strong></td>
     <td>
@@ -60,14 +60,12 @@
   </tr>
 </table>
 
-
-<br><br>
+<br><br><br> <!-- Added more space between the table and the GitHub Stats section -->
 
 <h2 align="left">My GitHub Stats</h2>
-<div align="center">
+<div align="center" style="margin-bottom: 30px;">
   <img src="https://streak-stats.demolab.com?user=meysam-rahmanian&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>
-
 
 ###
 
