@@ -42,9 +42,9 @@
     <td><strong>Simulation Tools</strong></td>
     <td>
       <img src="assets/comsol-logo.png" alt="COMSOL" width="60" height="50" />
-      <img src="https://avatars.githubusercontent.com/u/342353?s=200&v=4" alt="OpenFOAM" width="40" height="40"/>
-      <img src="assets/aspen-logo.png" alt="Aspen HYSYS" width="70" height="50"/>
-      <img src="assets/ansys-logo.png" alt="ANSYS" width="60" height="60"/>
+      <img src="https://avatars.githubusercontent.com/u/342353?s=200&v=4" alt="OpenFOAM" width="40" height="40"  />
+      <img src="assets/aspen-logo.png" alt="Aspen HYSYS" width="90" height="50" />
+      <img src="assets/ansys-logo.png" alt="ANSYS" width="80" height="60"  />
     </td>
   </tr>
 
