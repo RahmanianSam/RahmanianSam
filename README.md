@@ -42,7 +42,6 @@
   <tr>
     <td><strong>Simulation Tools</strong></td>
     <td>
-      
       <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Comsol_logo.png" alt="COMSOL" width="90" height="30"/>
       <img src="https://avatars.githubusercontent.com/u/342353?s=200&v=4" alt="OpenFOAM" width="40" height="40"/>
       <img src="https://www.aspentech.com/-/media/aspentech/images/logos/logo-default-og-image.jpg" alt="Aspen HYSYS" width="60" height="30"/>
