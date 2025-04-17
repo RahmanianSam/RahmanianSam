@@ -64,7 +64,7 @@
   </tr>
 </table>
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <h2 align="left"> My Stats :</h2>
 
