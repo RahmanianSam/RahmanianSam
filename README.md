@@ -58,4 +58,22 @@
   </tr>
 </table>
 
+<br><br><br><br><br><br><br><br><br><br><br><br>
+
+<h2 align="left">My GitHub Stats</h2>
+<div align="center" style="margin-bottom: 30px;">
+  <img src="https://streak-stats.demolab.com?user=meysam-rahmanian&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+</div>
+
+###
+<br><br><br><br><br><br><br><br><br><br><br><br>
+
+<h2 align="left">Connect with Me</h2>
+<p align="left">
+  <a href="https://www.linkedin.com/in/meysam-rahmanian/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:rahmanian.s.meysam@gmail.com" target="_blank"><img src="https://img.icons8.com/color/452/gmail.png" alt="Gmail" height="30" width="30"/></a>
+</p>
+
+###
 
