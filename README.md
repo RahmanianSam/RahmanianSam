@@ -4,13 +4,16 @@
 ###
 
 <h2 align="left">About Me</h2>
-
 <p align="left">
-✨ I build high-performance scientific software, specializing in computational modeling, numerical methods, and algorithm optimization.<br>
-🔧 My core skills include C++, C#, Python, MATLAB, Java, and parallel computing.<br>
-📚 I hold a Ph.D. in Electrochemical Engineering, with experience in Petroleum and Chemical Engineering — bringing a strong scientific foundation to my software development work.<br>
-🎯 I’m driven to develop scalable, accurate, and reliable simulation tools that solve real-world engineering and scientific challenges.<br>
-💡 Passionate about leveraging emerging technologies to improve computational performance and user experience in technical applications.
+  ✨ <strong>Specialization:</strong> I specialize in developing high-performance software for scientific and engineering applications, focusing on computational modeling, numerical methods, and algorithm optimization.<br>
+  
+  🔧 <strong>Technical Expertise:</strong> My technical expertise includes C++, C#, Python, MATLAB, Java, and parallel computing, along with a strong background in scientific computing and simulation tools.<br>
+  
+  📚 <strong>Academic Background:</strong> I hold a Ph.D. in Electrochemical Engineering and have experience in Petroleum and Chemical Engineering, providing a robust scientific foundation for my software development work.<br>
+  
+  🎯 <strong>Goal:</strong> My goal is to build scalable, accurate, and reliable simulation tools that tackle real-world challenges in engineering and science.<br>
+  
+  💡 <strong>Passion:</strong> I am passionate about leveraging emerging technologies to improve computational performance, scalability, and user experience in complex technical applications.
 </p>
 
 ###
