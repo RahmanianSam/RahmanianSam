@@ -7,14 +7,14 @@
 
 <p align="left">
 🔬 I specialize in scientific software engineering, computational modeling, and algorithm optimization.<br>
-🚀 I thrive on building high-performance software that bridges science and engineering with elegant code.<br>
-🧠 Background in Electrochemical and Petroleum Engineering with hands-on experience in C++, Python, and parallel computing.<br>
+✨ I thrive on building high-performance software that bridges science and engineering with elegant code.<br>
+📚 Background in Electrochemical and Petroleum Engineering with hands-on experience in C++, Python, and parallel computing.<br>
 🎯 My goal? To continue creating scalable simulation tools that solve real-world scientific problems.
 </p>
 
 ###
 
-<h2 align="left">🧰 Tech Stack</h2>
+<h2 align="left">Technologies Stack:</h2>
 
 <table align="left">
   <tr>
