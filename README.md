@@ -69,7 +69,7 @@
 <h2 align="left"> My Stats :</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahmaniansam&show_icons=true&theme=dark&hide_title=true" height="220" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rahmaniansam&theme=dark&hide_border=false&border_radius=5" alt="GitHub streak" height="220"/>
 </div>
 
 ###
